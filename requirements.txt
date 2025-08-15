@@ -1,0 +1,5 @@
+dots_ocr
+qwen_vl_utils
+sentence-transformers
+torch
+transformers
