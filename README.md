@@ -93,5 +93,3 @@ Detected top-level packages: **dots_ocr, qwen_vl_utils, sentence-transformers, t
 - Add a LICENSE (e.g., MIT) if you plan to share publicly.
 
 ---
-
-*Generated on 2025-08-15 02:19 UTC*
